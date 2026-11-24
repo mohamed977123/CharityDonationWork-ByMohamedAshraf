@@ -5,7 +5,7 @@ Cloud Computing and Cloud Security, final phase. Campaigns list the items they n
 progress toward each target. It runs on **Floci**, a free local copy of AWS (Lab 7): no real AWS account is used.
 
 
-## 0. Run everything on another laptop (one command)
+## 0. Run everything on another laptop
 
 Install **Docker Desktop** (running), **Node.js 20+**, **AWS CLI v2** and **Git Bash** (Windows) or use Linux/WSL. Unzip this folder, open Git Bash inside it and run:
 
