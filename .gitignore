@@ -1,0 +1,8 @@
+node_modules/
+lambda.zip
+out/
+.build/
+deploy.env
+.env
+.DS_Store
+Thumbs.db
